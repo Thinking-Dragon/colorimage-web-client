@@ -1,0 +1,7 @@
+Mac Error sound: https://www.youtube.com/watch?v=YZiES5scwlo&list=PLpzPkTd8S6B8vVXB3R06Yp1AZwsv3z9u3&index=22
+
+usb-connect: https://www.youtube.com/watch?v=9hYdviIZ2Is
+usb-disconnect: usb-connect trimmed and played in reverse
+
+sent-sound-effect: https://www.youtube.com/watch?v=vAisWjP49xA
+received-sound-effect: https://www.youtube.com/watch?v=Ka3DUKCbL-k
